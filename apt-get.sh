@@ -1,5 +1,5 @@
 alias search="apt-cache search"
-alias install="sudo apt-get install"
+alias install="sudo apt-get install -y"
 alias update="sudo apt-get update"
 alias upgrade="sudo apt-get upgrade"
 alias purge="sudo apt-get purge"
