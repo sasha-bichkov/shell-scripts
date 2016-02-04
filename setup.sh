@@ -21,8 +21,8 @@ install() {
   local manager=$2
 
   if [ -z $PACKAGE ]; then
-     echo 'Specify package that you want to install'
-     exit
+    echo 'Specify package that you want to install'
+    exit
   fi
 
   if [ -z $manager ]; then
