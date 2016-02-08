@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # To install opencart in destination folder
-# use the command: bash opencart.sh YOUR-FOLDER-HERE
+# use the command: bash opencart.sh YOUR-FOLDER-HERE OPENCART-VERSION
 
 # You can export a web server directory to ~/.bashrc 
 # and use the script like so: bash opencart.sh $SERVER/SITENAME 1.5.6.4
