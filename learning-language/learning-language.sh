@@ -11,6 +11,7 @@ readonly WORD=$1
 readonly TRANSLATE=$2
 
 main() {
+  play show.wav
   DISPLAY=:0.0 notify-send -i ~/en.png LearningLanguage "«$WORD» — $TRANSLATE"
 }
 
