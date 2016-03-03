@@ -4,6 +4,8 @@ declare -a blacklist=(
   gmail.com
   vk.com
   facebook.com
+  mail.ru
+  twitter.com
 )
 
 ban() {
