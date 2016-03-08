@@ -6,6 +6,8 @@ declare -a blacklist=(
   facebook.com
   mail.ru
   twitter.com
+  pinterest.com
+  instagram.com
 )
 
 ban() {
