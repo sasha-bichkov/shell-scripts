@@ -1,5 +1,6 @@
 alias gst='git status'
 alias gl='git pull'
+alias glr='git pull --rebase'
 alias gp='git push'
 alias gpf='git push --force'
 alias gpum='git push -u origin master'
