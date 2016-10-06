@@ -4,7 +4,7 @@
 
 # USAGE
 # crontab -e
-# The message will show up each 5 mintues
+# The message shows up every 5 mintues
 # */5 * * * * ~/learning-language.sh WORD TRANSLATE
 
 readonly WORD=$1
